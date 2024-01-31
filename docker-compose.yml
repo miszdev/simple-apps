@@ -31,7 +31,7 @@ services:
     ports:
       - "8000:80"
 
- 
+
 volumes:
   app-data:
   db-data:
